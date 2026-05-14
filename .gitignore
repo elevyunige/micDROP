@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these folders
+!GITHUB/
+!GITHUB/**
+!DATA/
+!DATA/**
+
+# And not the .gitignore itself
+!.gitignore
+
+# Still ignore temp files everywhere
+.DS_Store
+~$*
